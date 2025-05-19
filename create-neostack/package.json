@@ -1,0 +1,25 @@
+{
+  "name": "create-neostack",
+  "version": "1.0.0",
+  "description": "Create a new project using the Neostack frontend template",
+  "bin": {
+    "create-neostack": "./bin/create-neostack.js"
+  },
+  "keywords": [
+    "create",
+    "neostack",
+    "template",
+    "react",
+    "vite",
+    "cli"
+  ],
+  "author": "John Doe",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

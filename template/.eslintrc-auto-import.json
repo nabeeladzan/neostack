@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "Hello": true,
+    "Home": true
+  }
+}
