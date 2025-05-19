@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="019d39a8-8247-4b35-8ec5-db46d1fc9bb2" name="Changes" comment="" />
+    <list default="true" id="019d39a8-8247-4b35-8ec5-db46d1fc9bb2" name="Changes" comment="refactor: clean up code formatting and improve readability">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/neostack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create-neostack/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-neostack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/components/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/components/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/Hello.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/Hello.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +31,9 @@
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -30,18 +44,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.localhost:5173.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/nabeeladzan/Projects/OpenSource/neostack",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "npm.Start.executor": "Run",
-    "settings.editor.selected.configurable": "editor.stickyLines",
-    "ts.external.directory.path": "C:\\Users\\nabeeladzan\\Projects\\opensource\\neostack\\template\\node_modules\\typescript\\lib",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "ts.external.directory.path": "C:\\Users\\nabeeladzan\\Projects\\OpenSource\\neostack\\template\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -52,7 +70,10 @@
       <recent name="C:\Users\nabeeladzan\Projects\opensource\neostack" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.Start">
+    <configuration name="localhost:5173" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5173/">
+      <method v="2" />
+    </configuration>
     <configuration name="Start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/template/package.json" />
       <command value="run" />
@@ -63,6 +84,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:5173" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -80,10 +106,16 @@
       <updated>1747319789822</updated>
       <workItem from="1747319791201" duration="3474000" />
       <workItem from="1747324945701" duration="11426000" />
+      <workItem from="1747674237957" duration="888000" />
+      <workItem from="1747675162432" duration="537000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor: clean up code formatting and improve readability" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: clean up code formatting and improve readability" />
   </component>
 </project>
