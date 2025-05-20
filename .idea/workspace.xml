@@ -5,16 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="019d39a8-8247-4b35-8ec5-db46d1fc9bb2" name="Changes" comment="refactor: clean up code formatting and improve readability">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/neostack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create-neostack/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-neostack/bin/create-neostack.js" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/bin/create-neostack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create-neostack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/components/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/components/Card.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/pages/Hello.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/pages/Hello.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/.eslintrc-auto-import.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/.eslintrc-auto-import.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/eslint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/eslint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/powertrains/Store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/powertrains/Store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/components/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/components/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/components/Splashscreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/components/Splashscreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/pages.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/pages/Hello.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/pages/Hello.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/stores/sampleStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/stores/sampleStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/vite-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/src/vite-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/tsconfig.node.json" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/tsconfig.node.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/create-neostack/template/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -50,6 +68,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "22.15.0",
+    "javascript.nodejs.core.library.typings.version": "22.15.19",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/nabeeladzan/Projects/OpenSource/neostack",
     "node.js.detected.package.eslint": "true",
@@ -65,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nabeeladzan\Projects\OpenSource\neostack\create-neostack" />
       <recent name="C:\Users\nabeeladzan\Projects\opensource\neostack\template\src\pages" />
       <recent name="C:\Users\nabeeladzan\Projects\opensource\neostack\template" />
       <recent name="C:\Users\nabeeladzan\Projects\opensource\neostack" />
@@ -75,7 +96,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Start" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/template/package.json" />
+      <package-json value="$PROJECT_DIR$/create-neostack/template/package.json" />
       <command value="run" />
       <scripts>
         <script value="dev" />
@@ -107,8 +128,18 @@
       <workItem from="1747319791201" duration="3474000" />
       <workItem from="1747324945701" duration="11426000" />
       <workItem from="1747674237957" duration="888000" />
-      <workItem from="1747675162432" duration="537000" />
+      <workItem from="1747675162432" duration="1494000" />
+      <workItem from="1747708432248" duration="1318000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor: clean up code formatting and improve readability">
+      <option name="closed" value="true" />
+      <created>1747675825342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747675825342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
