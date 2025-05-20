@@ -1,54 +1,32 @@
-# React + TypeScript + Vite
+# create-neostack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The official project scaffolding tool for **Neostack** – a modern React frontend stack that helps you start fast with
+all the essentials already wired up.
 
-Currently, two official plugins are available:
+## 🚀 What’s in Neostack?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A thoughtfully curated set of libraries for building scalable, performant, and beautiful frontends:
 
-## Expanding the ESLint configuration
+| Library             | Purpose                               |
+|---------------------|---------------------------------------|
+| **React**           | UI Library                            |
+| **React Router**    | Client-side routing                   |
+| **Zustand**         | Lightweight state management          |
+| **Tailwind CSS**    | Utility-first styling                 |
+| **React Query**     | Server-state synchronization          |
+| **Immer**           | Immutable state handling              |
+| **Axios**           | Promise-based HTTP client             |
+| **Framer Motion**   | Animations and transitions            |
+| **date-fns**        | Modern date utility functions         |
+| **Vitest**          | Fast unit testing                     |
+| **Vite**            | Lightning-fast dev server and bundler |
+| **React Hook Form** | Form management                       |
+| **Zod**             | Type-safe schema validation           |
+| **TypeScript**      | Strongly typed JS                     |
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 📦 Installation
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+To scaffold a new project with Neostack:
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+```bash
+npm create neostack@latest && npm run dev
