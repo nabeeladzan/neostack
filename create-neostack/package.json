@@ -13,8 +13,8 @@
     "vite",
     "cli"
   ],
-  "author": "John Doe",
-  "license": "MIT",
+  "author": "Muhammad Nabeel Adzan",
+  "license": "Apache-2.0",
   "type": "module",
   "dependencies": {
     "fs-extra": "^11.3.0"

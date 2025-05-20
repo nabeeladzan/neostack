@@ -1,7 +1,8 @@
 {
   "name": "neostack",
-  "private": true,
   "version": "0.0.0",
+  "description": "New project using the Neostack frontend template",
+  "author": "Muhammad Nabeel Adzan",
   "type": "module",
   "scripts": {
     "dev": "vite",
